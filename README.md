@@ -30,7 +30,7 @@ TravelNest aims to simplify travel planning and property management. With a stro
 
 ### Cloud Integration
 - **Database Storage**: Utilizes **MongoDB Atlas** for secure, scalable data storage.
-- **Image Hosting**: Images are stored and served via **Cloudinary** or **AWS S3**, optimizing page load speeds.\\
+- **Image Hosting**: Images are stored and served via **Cloudinary** or **AWS S3**, optimizing page load speeds.
 
 ### Flash Messages and Error Handling
 - **Flash Notifications**: Inform users of important actions, like successful bookings or account updates.
